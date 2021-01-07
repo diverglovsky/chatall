@@ -2,7 +2,7 @@
 Script alternatif untuk mengirimkan pesan ke semua room dari rank 1 hingga batas rank yang telah ditentukan
 
 ## Installation (Instalasi)
-
+Download terlebih dahulu termux di playstore ya (Gratis)
 
 ```bash
 pkg install python -y
