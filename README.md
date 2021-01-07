@@ -3,7 +3,6 @@ Script alternatif untuk mengirimkan pesan ke semua room dari rank 1 hingga batas
 
 ## Installation (Instalasi)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pkg install python -y
